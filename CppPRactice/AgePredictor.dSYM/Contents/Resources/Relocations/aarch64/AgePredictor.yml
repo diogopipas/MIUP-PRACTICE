@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diogoporto/Documents/MIUP-PRACTICE/CppPRactice/AgePredictor'
+relocations:
+  - { offset: 0x1A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000740, symSize: 0x100 }
+  - { offset: 0x67E4, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x15484, symBinAddr: 0x10000800F, symSize: 0x0 }
+  - { offset: 0x6AEF, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x1BC, symBinAddr: 0x10000096D, symSize: 0x0 }
+  - { offset: 0x6B09, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x1BD, symBinAddr: 0x10000096E, symSize: 0x0 }
+  - { offset: 0x6B23, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x1BE, symBinAddr: 0x10000096F, symSize: 0x0 }
+  - { offset: 0x6B31, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_AgePredictor.cpp, symObjAddr: 0x13C, symBinAddr: 0x10000087C, symSize: 0x14 }
+  - { offset: 0x6B4B, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x100, symBinAddr: 0x100000840, symSize: 0x3C }
+  - { offset: 0x6B53, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_AgePredictor.cpp, symObjAddr: 0x13C, symBinAddr: 0x10000087C, symSize: 0x14 }
+  - { offset: 0x6B70, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000740, symSize: 0x100 }
+  - { offset: 0x6B78, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x100, symBinAddr: 0x100000840, symSize: 0x3C }
+...
