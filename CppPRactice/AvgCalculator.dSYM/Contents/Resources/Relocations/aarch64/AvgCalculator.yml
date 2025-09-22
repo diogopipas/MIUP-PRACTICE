@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diogoporto/Documents/MIUP-PRACTICE/CppPRactice/AvgCalculator'
+relocations:
+  - { offset: 0x1A, size: 0x8, addend: 0x0, symName: __Z14numberToLetterd, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x9C }
+  - { offset: 0x3205, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xE8C5, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x3510, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x382, symBinAddr: 0x100000ABA, symSize: 0x0 }
+  - { offset: 0x352A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x383, symBinAddr: 0x100000ABB, symSize: 0x0 }
+  - { offset: 0x3544, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x384, symBinAddr: 0x100000ABC, symSize: 0x0 }
+  - { offset: 0x3552, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_AvgCalculator.cpp, symObjAddr: 0x2C8, symBinAddr: 0x1000009B8, symSize: 0x14 }
+  - { offset: 0x356C, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x28C, symBinAddr: 0x10000097C, symSize: 0x3C }
+  - { offset: 0x3574, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_AvgCalculator.cpp, symObjAddr: 0x2C8, symBinAddr: 0x1000009B8, symSize: 0x14 }
+  - { offset: 0x3591, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x9C, symBinAddr: 0x10000078C, symSize: 0x1F0 }
+  - { offset: 0x3599, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x28C, symBinAddr: 0x10000097C, symSize: 0x3C }
+  - { offset: 0x362C, size: 0x8, addend: 0x0, symName: __Z14numberToLetterd, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x9C }
+  - { offset: 0x3634, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x9C, symBinAddr: 0x10000078C, symSize: 0x1F0 }
+...
