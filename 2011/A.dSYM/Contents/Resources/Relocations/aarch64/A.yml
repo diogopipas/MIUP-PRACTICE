@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diogoporto/Documents/MIUP-PRACTICE/2011/A'
+relocations:
+  - { offset: 0x1A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x28 }
+  - { offset: 0x4716, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x5F0AB, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0xF8D0, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x84, symBinAddr: 0x10000079C, symSize: 0x0 }
+  - { offset: 0xF8EA, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x85, symBinAddr: 0x10000079D, symSize: 0x0 }
+  - { offset: 0xF904, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x86, symBinAddr: 0x10000079E, symSize: 0x0 }
+  - { offset: 0xFA2F, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIoEE, symObjAddr: 0x87, symBinAddr: 0x10000079F, symSize: 0x0 }
+  - { offset: 0xFA70, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x64, symBinAddr: 0x100000754, symSize: 0x14 }
+  - { offset: 0xFA8A, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x28, symBinAddr: 0x100000718, symSize: 0x3C }
+  - { offset: 0xFA92, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A.cpp, symObjAddr: 0x64, symBinAddr: 0x100000754, symSize: 0x14 }
+  - { offset: 0xFAAF, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x28 }
+  - { offset: 0xFAB7, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x28, symBinAddr: 0x100000718, symSize: 0x3C }
+...

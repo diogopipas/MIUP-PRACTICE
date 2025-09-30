@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diogoporto/Documents/MIUP-PRACTICE/2011/D'
+relocations:
+  - { offset: 0x1A, size: 0x8, addend: 0x0, symName: __Z5funcFi, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x54 }
+  - { offset: 0x22, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x184, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x67E4, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x1556A, symBinAddr: 0x10000800D, symSize: 0x0 }
+  - { offset: 0x6AEF, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x191, symBinAddr: 0x1000008D8, symSize: 0x0 }
+  - { offset: 0x6B09, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x192, symBinAddr: 0x1000008D9, symSize: 0x0 }
+  - { offset: 0x6B23, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x193, symBinAddr: 0x1000008DA, symSize: 0x0 }
+  - { offset: 0x6B31, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0x170, symBinAddr: 0x100000860, symSize: 0x14 }
+  - { offset: 0x6B39, size: 0x8, addend: 0x0, symName: GCC_except_table0, symObjAddr: 0x184, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x6B4B, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x134, symBinAddr: 0x100000824, symSize: 0x3C }
+  - { offset: 0x6B53, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_D.cpp, symObjAddr: 0x170, symBinAddr: 0x100000860, symSize: 0x14 }
+  - { offset: 0x6B70, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA4, symBinAddr: 0x100000794, symSize: 0x90 }
+  - { offset: 0x6B78, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x134, symBinAddr: 0x100000824, symSize: 0x3C }
+  - { offset: 0x6BD3, size: 0x8, addend: 0x0, symName: __Z5funcYici, symObjAddr: 0x6C, symBinAddr: 0x10000075C, symSize: 0x38 }
+  - { offset: 0x6BDB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xA4, symBinAddr: 0x100000794, symSize: 0x90 }
+  - { offset: 0x6C36, size: 0x8, addend: 0x0, symName: __Z5funcGc, symObjAddr: 0x54, symBinAddr: 0x100000744, symSize: 0x18 }
+  - { offset: 0x6C3E, size: 0x8, addend: 0x0, symName: __Z5funcYici, symObjAddr: 0x6C, symBinAddr: 0x10000075C, symSize: 0x38 }
+  - { offset: 0x6C73, size: 0x8, addend: 0x0, symName: __Z5funcFi, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x54 }
+  - { offset: 0x6C7B, size: 0x8, addend: 0x0, symName: __Z5funcGc, symObjAddr: 0x54, symBinAddr: 0x100000744, symSize: 0x18 }
+...
